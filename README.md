@@ -20,7 +20,7 @@
 ## 🛠 Установка
 
 1. Скопируйте файл `QR-code.jsx` в папку скриптов Adobe Illustrator:
-   > **Windows:** `C:\Program Files\Adobe\Adobe Illustrator [версия]\Presets\[язык]\Scripts`
+   > **Windows:** `C:\Program Files\Adobe\Adobe Illustrator [версия]\Presets\[язык]\Scripts`  
    > **macOS:** `/Applications/Adobe Illustrator [версия]/Presets/[язык]/Scripts`
 2. Перезапустите Adobe Illustrator.
 
